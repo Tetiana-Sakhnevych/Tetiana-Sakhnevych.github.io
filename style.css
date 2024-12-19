@@ -1,0 +1,31 @@
+body {
+font-style: normal;
+margin:  0;
+padding: 0;
+background-color: azure;
+color: #1b1d1f;
+}
+
+header {
+    background: linear-gradient(270deg, #fcfefe 0%, #a5edff 100%);
+    color: #1b1d1f;
+    padding: 20px;
+    text-align: center;
+}
+header nav li {
+    display: inline;
+    color: rgb(24, 14, 14);
+    text-decoration: double;
+}
+
+
+.gallery {
+    display: block;
+    justify-content: center;
+    margin-top: 20px;
+    }
+
+.main-page {
+    width: 100%;
+}
+
