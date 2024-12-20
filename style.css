@@ -4,6 +4,7 @@ margin:  0;
 padding: 0;
 background-color: azure;
 color: #1b1d1f;
+font-family: 'Brush Script MT', cursive;
 }
 
 header {
@@ -11,21 +12,83 @@ header {
     color: #1b1d1f;
     padding: 20px;
     text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: large;
 }
 header nav li {
     display: inline;
     color: rgb(24, 14, 14);
     text-decoration: double;
+    font-size: 20px;
+    
 }
 
-
 .gallery {
-    display: block;
+  
     justify-content: center;
     margin-top: 20px;
+    border: 15px;
+  padding: 20px;
+  margin: 20px;
     }
 
 .main-page {
     width: 100%;
 }
+.main-page-text-conteiner {
+  
+  border: 15px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+}
 
+.main-photo {
+    width: 30%;
+    border: 15px;
+    margin: 20px;
+    
+}
+.main-photo2 {
+    width: 30%;
+    border: 15px;
+    margin: 20px;
+}
+.main-photo3 {
+    width: 30%;
+    border: 15px;
+    margin: 20px;
+}
+
+.landscapes-text {
+    text-align: left;
+    padding-left: 50px;
+}
+.photo1 {
+    width: 40%;
+    border: 10px;
+    margin: 10px;
+}
+.photo2 {
+    width: 40%;
+    border: 10px;
+    margin: 10px;
+}
+.photo3 {
+    width: 40%;
+    border: 10px;
+    margin: 10px;
+}
+.photo4 {
+    width: 40%;
+    border: 10px;
+    margin: 10px;
+}
+.text-contact {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
